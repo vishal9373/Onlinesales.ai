@@ -72,3 +72,10 @@ class Solution
         System.out.println("Tail Count: " + iTailCnt);
     }
 }
+
+/*
+Process To run the code:
+ command:    javac 001_simulationOfEvent.java
+ command:    java Solution
+
+*/
