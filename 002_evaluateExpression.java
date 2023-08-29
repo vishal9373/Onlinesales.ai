@@ -62,3 +62,10 @@ class Solution
         return 0.0; // Placeholder for demonstration
     }
 }
+
+/*
+Process To run the code:
+ command:    javac 002_evaluateExpression.java
+ command:    java Solution
+
+*/
